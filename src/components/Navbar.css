@@ -1,0 +1,10 @@
+.top {
+  padding-top: 500px;
+}
+
+.absolute {
+  position: absolute;
+  right: 150px;
+  color: white;
+  text-decoration-color: white;
+}
