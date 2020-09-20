@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/neki-test/static/css/main.b5410eb4.chunk.css",
+    "main.js": "/neki-test/static/js/main.cbdad7f6.chunk.js",
+    "main.js.map": "/neki-test/static/js/main.cbdad7f6.chunk.js.map",
+    "runtime-main.js": "/neki-test/static/js/runtime-main.0d726540.js",
+    "runtime-main.js.map": "/neki-test/static/js/runtime-main.0d726540.js.map",
+    "static/js/2.130877ca.chunk.js": "/neki-test/static/js/2.130877ca.chunk.js",
+    "static/js/2.130877ca.chunk.js.map": "/neki-test/static/js/2.130877ca.chunk.js.map",
+    "index.html": "/neki-test/index.html",
+    "precache-manifest.32b740bee6c8f5ca4ce07f199865ad9f.js": "/neki-test/precache-manifest.32b740bee6c8f5ca4ce07f199865ad9f.js",
+    "service-worker.js": "/neki-test/service-worker.js",
+    "static/css/main.b5410eb4.chunk.css.map": "/neki-test/static/css/main.b5410eb4.chunk.css.map",
+    "static/js/2.130877ca.chunk.js.LICENSE.txt": "/neki-test/static/js/2.130877ca.chunk.js.LICENSE.txt",
+    "static/media/404.css": "/neki-test/static/media/bg.3644ee70.jpg",
+    "static/media/donate.jpg": "/neki-test/static/media/donate.d40c6d69.jpg",
+    "static/media/education.jpg": "/neki-test/static/media/education.6ce02f8e.jpg",
+    "static/media/food.jpg": "/neki-test/static/media/food.d39cefb4.jpg",
+    "static/media/people.png": "/neki-test/static/media/people.04350b51.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d726540.js",
+    "static/js/2.130877ca.chunk.js",
+    "static/css/main.b5410eb4.chunk.css",
+    "static/js/main.cbdad7f6.chunk.js"
+  ]
+}
